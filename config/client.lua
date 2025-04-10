@@ -8,8 +8,8 @@ return {
         alpha = 255,
         scale = 0.8,
     },
-    ---@description Paste the presets here 🔽 [https://github.com/IlMelons/melons_presets/tree/main/Blips]
+    ---@description Paste the presets here 🔽 [https://github.com/IlMelons/melons_presets/tree/main/blips]
 
 
-    ---@description Paste the presets here 🔼 [https://github.com/IlMelons/melons_presets/tree/main/Blips]
+    ---@description Paste the presets here 🔼 [https://github.com/IlMelons/melons_presets/tree/main/blips]
 }
