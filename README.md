@@ -1,7 +1,7 @@
 ## Melons Blips
 Blips management resource for FiveM servers with blip presets for various map creators
 - [Blips Presets](https://github.com/IlMelons/Melons-Presets/tree/main/blips)
-- [All-in-One Resource](https://github.com/IlMelons/melons_mapsutility) (Soon Deprecated)
+- [All-in-One Resource](https://github.com/IlMelons/melons_mapsutility)
 
 ## LICENSE | (C) 2025 Melons Development
 
